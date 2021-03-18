@@ -1,0 +1,940 @@
+/**
+ *  New Progress Bar
+ */
+
+li.add-srt::before {
+    content: 'Onwards and Upwards';
+    position: absolute;
+    right: -100%;
+    color: #BD2C22;
+    font-family: 'NeueHaasDisplay-Roman';
+    font-size: 15px;
+}
+
+.team-bot .timeline ol li:nth-child(4) {
+    width: 22vw;
+}
+
+.team-bot .timeline ol li:nth-child(8) {
+    width: 23.4vw;
+}
+
+.team-bot .timeline ol li:nth-child(11) {
+    width: 30.4vw;
+}
+
+.sol-ovr .my-cat a:before {content: 'Chronicles / ';}
+
+div#burger-wrap.open {
+    background: rgb(36, 71, 178, 0.85) !important;
+}
+
+.team-bot .timeline ol {
+    padding: 215px 0 215px 0 !important;
+}
+
+.arrows_ccc button, 
+.arrows_super button {
+    line-height: 1;
+    font-size: 13px;
+}
+
+.team-top span.sept {
+    font-size: 12px;
+}
+
+.arrows_ccc, .arrows_super {
+    line-height: 1;
+    margin-top: 5px;
+}
+
+.arrows_ccc .slick-disabled, 
+.arrows_super .slick-disabled {
+    color: #B7B7B7 !important;
+}
+
+.page-id-1888 .timeline ol li:first-child {
+    width: 0;
+}
+
+.is-left-sidebar {
+    z-index: 999;
+}
+.progress, .progress1 {
+  display: block;
+  width: 100%;
+  height: 7px;
+  border-radius: 10px;
+  overflow: hidden;
+  background-color: #f5f5f5;
+  background-image: linear-gradient(to right, #808080, #808080);
+  background-repeat: no-repeat;
+  background-size: 0 100%;
+  transition: background-size .4s ease-in-out;
+}
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0,0,0,0);
+  border: 0;
+}
+.slick-list {
+    overflow: unset !important;
+}
+
+/*********************************/
+
+.wact.rd-wc .elementor-widget-wrap.elementor-element-populated {
+    background-color: rgba(206, 16, 16, 1) !important;
+}
+
+.single-post .my-cat a:before {
+    content: 'Chronicles / ';
+}
+
+.page-id-1647 .animated-slow span.breadcrumbs-arrow,
+.page-id-1888 button span.breadcrumbs-arrow {
+    font-size: 20px !important;
+}
+
+.idfy-listing span.breadcrumbs-arrow {
+    position: relative;
+    top: -3px;
+    font-size: 20px !important;
+}
+
+.mobile-header {
+    z-index: 9 !important;
+}
+
+.idfy-frame-animate-bottom {
+    opacity: 0;
+}
+
+.rd-wh.wact .elementor-widget-wrap.elementor-element-populated {
+    background-color: #ffffff !important;
+}
+
+.bg-wc.wact .elementor-widget-wrap.elementor-element-populated {
+    background-color: #343434 !important;
+}
+
+.wact .rst-me {
+  left:5px !important;
+}
+
+body.home {
+    background: url(http://wpuplift.com/projects/idfy/wp-content/uploads/2021/03/Home_tile.png);
+    background-repeat: repeat;
+}
+
+
+/**************************************/
+
+span.menu-arrow-solutions12 {
+    font-family: 'FilsonPro-Book';
+}
+
+.fg-ty a {
+    font-family: 'NeueHaasDisplay-Roman';
+}
+
+header#masthead,
+.home .mobile-header {
+    display: none;
+}
+
+div#four-oh-four {
+    width: 100%;
+}
+
+.pr-error img {
+    width: 500px;
+}
+
+.pr-error {
+    text-align: center;
+    padding-top: 100px;
+}
+
+.pr-error p {
+    font-family: 'NeueHaasDisplay-Bold';
+    line-height: 1;
+    font-size: 30px;
+}
+
+.pr-error p {
+    padding-bottom: 25px;
+}
+
+.pr-error a {
+    background: #ce1010;
+    color: #fff !important;
+    padding: 10px 30px;
+    font-family: 'NeueHaasDisplay-Roman';
+}
+
+.get-vg:first-child {
+    border-top: 1px solid #1C43B942;
+    padding-top: calc(20px/2);
+}
+
+.idfy-listing .idfy-btn {
+    width: auto;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    z-index: 9;
+    right: 0;
+    left: 0;
+}
+
+.skiptoend {
+    cursor: pointer;
+}
+
+p.no-posts-found {
+    color: #fff;
+    font-family: 'NeueHaasDisplay-Roman';
+}
+
+/* iPhone Portrait and Landscape */
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 640px) {
+	
+.ght-upi .elementor-widget-image {
+    bottom: -100vw !important;
+}
+	
+.elementor-element-1cd9f70 {
+    bottom: -85px !important;
+}
+	
+.page .tdu-up .timeline ol li:nth-child(odd) div, 
+.page .tdu-up .timeline ol li:nth-child(even) div, 
+.page .team-top section.inside-emp, 
+.page .team-top section.emp-data {
+    height: 222px !important;
+}
+	
+.page .tdu-up .timeline ol {
+    padding: 115px 0 !important;
+}
+	
+.lt-menu ul#menu-main-menu li {
+    padding: 5.35vw !important;
+}
+	
+li.add-srt::before {
+    font-size: 14px !important;
+    right: -92% !important;
+}
+
+.lt-menu ul#menu-main-menu li:after {
+    font-size: 18px !important;
+}
+
+.lt-menu ul#menu-main-menu li:last-child:after, 
+.lt-menu ul#menu-main-menu li:nth-last-child(2):after {
+    font-size: 16px !important;
+}
+
+.lt-menu ul#menu-main-menu li:last-child a, 
+.lt-menu ul#menu-main-menu li:nth-last-child(2) a {
+    font-size: 13px !important;
+}
+	
+.progress, .progress1 {
+    height: 4px !important;
+}
+
+.page .team-bot section.inside-emp {
+    padding: 0 !important;
+}
+	
+.idfy-listing span.breadcrumbs-arrow {
+    top: 0 !important;
+    font-size: 18px !important;
+}
+	
+.elementor-element-23e102b {
+    overflow-y: scroll !important;
+}
+	
+.my-em25 {
+    z-index: 99 !important;
+}
+	
+.my-em25 {
+    background: #606060 !important;
+    right: 60px !important;
+    top: 0 !important;
+}
+	
+ul#menu-bottom-menu {
+    padding-top: 10px !important;
+}
+	
+.idfy-home {
+    background-image: url(../../../wp-content/uploads/2021/03/idfy-home-final-new-photo-home-new.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+	
+.idfy-home .sl-img2 {
+    opacity: 0;
+}
+
+.customer {
+    background-image: url(../../../wp-content/uploads/2021/03/idfy-customer-final-photo-new.jpg);
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+	
+.employee {
+    background-image: url(../../../wp-content/uploads/2021/03/idfy-employee-final-photo-new.jpg);
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+	
+.partner {
+    background-image: url(../../../wp-content/uploads/2021/03/idfy-partner-final-photo-new.jpg);
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+	
+.peer {
+    background-image: url(../../../wp-content/uploads/2021/03/idfy-peer-final-photo-new.jpg);
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+	
+.lt-menu .elementor-shortcode ul#menu-main-menu li a {
+    font-size: 8vw;
+}
+
+#menu-bottom-menu li a {
+    font-size: 10px !important;
+}
+	
+.idfy-btn-main.active .idfy-btn {
+    width: 100% !important;
+    background: #343434 !important;
+    padding: 3px 0px !important;
+	transition: all ease .5s;
+}
+
+.idfy-btn button {
+    font-size: 10px !important;
+    width: 70px !important;
+    height: 25px !important;
+}
+	
+.idfy-btn-main.active {
+    margin: 0;
+    bottom: 0;
+    transition: all ease .5s;
+	animation-delay: 5s;
+	position: fixed !important;
+}
+	
+/*****************Animation CSS*********************/
+	
+.my-peer .elementor-col-25 {
+    width: 100% !important;
+    transition: all ease .5s;
+    height: 50vh !important;
+}
+
+.elementor-element-77a8abb2.customer .elementor-widget-wrap, 
+.elementor-element-715d0e36.employee .elementor-widget-wrap, 
+.elementor-element-7650f7a4.partner .elementor-widget-wrap, 
+.elementor-element-4727bfe5.peer .elementor-widget-wrap {
+    height: 50vh !important;
+    transition: all ease .5s;
+}
+
+.my-peer .elementor-col-25.wact {
+    height: 23vh !important;
+}
+
+.wact .elementor-widget-wrap.elementor-element-populated {
+    height: 23vh !important;
+    transition: all ease .5s;
+}	
+	
+/*******************Customer Title*************************/
+	
+.my-peer h2.elementor-heading-title.elementor-size-default {
+    font-size: 12vw !important;
+    line-height: 1em !important;
+}
+
+.my-peer .rst-me {
+    left: 25px !important;
+    top: 10px !important;
+    bottom: auto !important;
+}
+
+.my-peer .rst-me img {
+    width: 50% !important;
+}
+
+span.skiptoend, span.my-sepg, span.skiptoend-next {
+    font-size: 4vw !important;
+}
+	
+/**************We unlock**********************/
+
+.we-un.wact h2.elementor-heading-title.elementor-size-default,
+.we-un1.wact h2.elementor-heading-title.elementor-size-default {
+    font-size: 7vw !important;
+    line-height: 1 !important;
+    width: 50vw;
+}
+
+.we-un.wact h2.elementor-heading-title.elementor-size-default br,
+.we-un1.wact h2.elementor-heading-title.elementor-size-default br {
+    display: none !important;
+}
+
+.my-peer .elementor-col-25.wact.we-un,
+.my-peer .elementor-col-25.wact.we-un1 {
+    height: 28vh !important;
+}
+	
+.we-un.wact .elementor-widget-wrap.elementor-element-populated,
+.we-un1.wact .elementor-widget-wrap.elementor-element-populated {
+    height: 28vh !important;
+}
+	
+.we-un .elementor-element-1edc496f img.attachment-full.size-full {
+    position: absolute;
+    bottom: 0px;
+    width: 25% !important;
+    right: 0px;
+}
+
+.employee .wact.emp-gh .elementor-widget-image {
+    right: 0 !important;
+    left: auto !important;
+    width: 33vw !important;
+}
+
+.wact .the-grl {
+    left: auto !important;
+}
+	
+.emp-gh, .rd-wh {
+    overflow: hidden !important;
+}
+	
+.we-un1 .the-grl {
+    position: absolute;
+    bottom: 0px;
+    width: 33% !important;
+    right: 0px;
+}
+
+.wact.we-un .elementor-text-editor,
+.wact.we-un1 .elementor-text-editor {
+    font-size: 3vw !important;
+    line-height: 1 !important;
+}
+	
+/**************On White**********************/
+	
+.on-white.wact h2.elementor-heading-title.elementor-size-default,
+.on-white1.wact h2.elementor-heading-title.elementor-size-default {
+    font-size: 7vw !important;
+    line-height: 1 !important;
+    width: 55vw;
+}
+	
+.wact.on-white .elementor-widget-wrap.elementor-element-populated,
+.wact.on-white1 .elementor-widget-wrap.elementor-element-populated {
+    padding: 25px 30px 0px 30px !important;
+}
+	
+.on-white.wact h2.elementor-heading-title.elementor-size-default br,
+.on-white1.wact h2.elementor-heading-title.elementor-size-default br,
+.wact.th-en .elementor-text-editor br:nth-child(2), 
+.wact.th-en1 .elementor-text-editor br:nth-child(2), 
+.yo-bu .elementor-text-editor br:nth-child(2), 
+.on-white.wact .elementor-text-editor br:nth-child(3), 
+.wact.we-un .elementor-text-editor br:nth-child(2),
+.on-white1.wact .elementor-text-editor br:nth-child(3),
+.wact.we-un1 .elementor-text-editor br:nth-child(2),
+.fg-th .elementor-text-editor br:nth-child(2) {
+    display: none !important;
+}
+	
+#burger-wrap {
+    background: #343434 !important;
+}
+
+.on-white.wact .elementor-text-editor,
+.on-white1.wact .elementor-text-editor {
+    font-size: 3vw !important;
+    line-height: 1 !important;
+}
+
+.on-white.wact img.attachment-full.size-full {
+    position: absolute !important;
+    right: 0 !important;
+    bottom: 0 !important;
+    width: 30vw !important;
+    height: auto !important;
+    top: auto !important;
+}
+	
+.fg-hj.wact img.attachment-full.size-full {
+    position: absolute !important;
+    right: 0 !important;
+    bottom: -57vw !important;
+    width: 75vw !important;
+    height: auto !important;
+    top: auto !important;
+}
+	
+.elementor-element-1e3ba21 {
+    bottom: -85vw !important;
+}
+	
+.elementor-element-fa064cf {
+    bottom: -90vw !important;
+}
+	
+.elementor-element-e41601b {left: auto !important;width: auto !important;right: 0;}
+
+.elementor-element-e41601b img {
+    width: 25vw !important;
+}
+	
+.pc-vf12 img.attachment-full.size-full {
+    width: 100vw;
+}
+
+.pc-vf12 .elementor-widget-image {
+    bottom: -60vw !important;
+}
+
+.rd-wc {
+    overflow: hidden !important;
+}
+	
+/**********************Through Enterprise***************************/
+	
+.wact.th-en h2.elementor-heading-title.elementor-size-default,
+.wact.th-en1 h2.elementor-heading-title.elementor-size-default {
+    font-size: 7vw !important;
+    line-height: 1 !important;
+    width: 65vw;
+}
+
+.wact.th-en .elementor-text-editor.elementor-clearfix,
+.wact.th-en1 .elementor-text-editor.elementor-clearfix {
+    font-size: 3vw !important;
+    line-height: 1 !important;
+}
+
+.th-en h2.elementor-heading-title.elementor-size-default br,
+.th-en1 h2.elementor-heading-title.elementor-size-default br {
+    display: none !important;
+}
+	
+.th-en.wact .elementor-widget-wrap.elementor-element-populated,
+.th-en1.wact .elementor-widget-wrap.elementor-element-populated {
+    padding-top: 25px !important;
+    overflow: hidden !important;
+}
+	
+/*************************your business*****************************/
+
+.yo-bu.elementor-col-25, 
+.wact.yo-bu.elementor-col-25,
+.yo-bu1.elementor-col-25, 
+.wact.yo-bu1.elementor-col-25 {
+    height: 26vh !important;
+    overflow: hidden !important;
+}
+
+.yo-bu.elementor-col-25 .elementor-widget-wrap.elementor-element-populated,
+.wact.yo-bu.elementor-col-25 .elementor-widget-wrap.elementor-element-populated,
+.yo-bu1.elementor-col-25 .elementor-widget-wrap.elementor-element-populated,
+.wact.yo-bu1.elementor-col-25 .elementor-widget-wrap.elementor-element-populated {
+    height: 26vh !important;
+}
+
+.yo-bu h2.elementor-heading-title.elementor-size-default, 
+.yo-bu.wact h2.elementor-heading-title.elementor-size-default,
+.yo-bu1 h2.elementor-heading-title.elementor-size-default, 
+.yo-bu1.wact h2.elementor-heading-title.elementor-size-default {
+    font-size: 7vw !important;
+    line-height:1 !important;
+    width: 65vw;
+}
+
+.yo-bu h2.elementor-heading-title.elementor-size-default br,
+.yo-bu1 h2.elementor-heading-title.elementor-size-default br {
+    display: none !important;
+}
+
+.yo-bu .elementor-widget-wrap.elementor-element-populated,
+.yo-bu1 .elementor-widget-wrap.elementor-element-populated {
+    padding-top: 25px !important;
+}
+
+.yo-bu .elementor-text-editor.elementor-clearfix,
+.yo-bu1 .elementor-text-editor.elementor-clearfix {
+    font-size: 3vw !important;
+    line-height: 1 !important;
+}
+	
+.wact .rst-me {
+    transform: unset !important;
+}
+	
+/*****************Team*******************/
+	
+.team-top .timeline ol li {
+    width: 80vw !important;
+    margin-right: 10px !important;
+}
+
+.life-id .timeline ol li:nth-child(odd) div, 
+.life-id .timeline ol li:nth-child(even) div {
+    width: 80vw !important;
+    height: 310px !important;
+}
+
+.team-top section.inside-emp {
+    padding: 30px !important;
+    height: 310px !important;
+}
+
+.team-top .emp-data p {
+    font-size: 4.2vw !important;
+    font-family: 'NeueHaasDisplay-Bold' !important;
+    letter-spacing: -0.3px;
+}
+
+.team-top section.inside-emp, 
+.team-top section.emp-data {
+    height: 310px !important;
+}
+	
+.team-top section.inside-emp, 
+.team-top section.emp-data {
+    height: 310px !important;
+}
+
+.team-top .timeline ol {
+    padding: 175px 0 175px 0 !important;
+}
+
+.team-top .emp-data h6 {
+    font-size: 3.1vw !important;
+}
+
+.team-top section.po-bot {
+    width: 35vw !important;
+    bottom: 8vw !important;
+}	
+	
+/****************Team Photos********************/
+	
+.tm-pht .timeline ol li {
+    width: 75vw !important;
+    margin-right: 10px !important;
+}
+
+.page .tm-pht .timeline ol li:nth-child(odd) div, 
+.page .tm-pht .timeline ol li:nth-child(even) div {
+    width: 75vw !important;
+    height: 180px !important;
+}
+
+.tm-pht section.inside-emp {
+    height: 180px !important;
+}
+
+.tm-pht.timeline ol {
+    padding: 200px 0 200px 0 !important;
+}
+
+.tm-pht .emp-data h6 {
+    font-size: 3.1vw !important;
+}
+
+.tm-pht section.po-bot {
+    width: 35vw !important;
+}	
+
+.tm-pht section.emp-data {
+    height: 180px !important;
+}
+
+.tm-pht .timeline ol {
+    padding: 110px 0 110px 0 !important;
+}
+	
+/*****************Chronicles*********************/
+	
+.single-post main#main div#left-sidebar, 
+.archive.category div#left-sidebar {
+    display: none !important;
+}
+
+.single-post main#main .status-publish, 
+.archive.category div#primary {
+    width: 100% !important;
+}
+
+.inside-bread h1 {
+    font-size: 23px !important;
+    line-height: 1 !important;
+    letter-spacing: unset !important;
+    padding-top: 0 !important;
+}
+
+.single-post .inside-article {
+    padding: 3vw 4vw !important;
+}
+
+.idfy-content-1, .idfy-content-2 {
+    display: block !important;
+    width: 100% !important;
+    padding: 0 !important;
+}
+
+.posted-date {
+    padding-top: 0 !important;
+}
+
+.single-post .posted-date time {
+    font-size: 14px !important;
+}
+
+.in-bed {
+    position: relative !important;
+    z-index: 1 !important;
+    padding-top: 0 !important;
+    padding-bottom: 25px !important;
+	line-height: 1 !important;
+}
+
+.in-bed a, span.menu-arrow, 
+.single-post span.menu-arrow1, 
+.in-bed span {
+    font-size: 12px !important;
+}
+
+.idfy-body-img {
+    padding-bottom: 15px !important;
+}
+
+.idfy-content-main {
+	padding-bottom: 50px !important;
+    width: 100% !important;
+    flex-direction: column-reverse;
+}
+
+#related_posts > h3 {
+    font-size: 25px !important;
+    line-height: 1 !important;
+    letter-spacing: unset !important;
+    padding-top: 0 !important;
+}
+
+div#related_posts {
+    padding-right: 0 !important;
+}
+	
+#related_posts .blog-archive79 h2 a {
+    font-size: 23px !important;
+}
+
+#related_posts .my-cat {
+    padding-bottom: 0 !important;
+}
+
+#related_posts .blog-archive79 h3 {
+    font-size: 18px !important;
+}
+	
+#related_posts span.menu-arrow1 {
+    font-size: 18px !important;
+    position: relative;
+    top: -1px;
+}
+	
+.fty-yu .elementor-widget-image {
+    bottom: 15px !important;
+    width: auto !important;
+    left: 55% !important;
+}
+
+.fty-yu .elementor-widget-image img {
+    width: 45vw !important;
+}
+	
+/*************Resize images*****************/
+	
+.pc-vf img.attachment-full.size-full {
+    width: 33vw !important;
+    height: auto !important;
+    position: absolute;
+    bottom: 0 !important;
+    right: 0 !important;
+}
+	
+/*****************************/
+	
+.idfy-title-main {
+    transition: all ease .5s !important;
+    bottom: -20vh !important;
+}
+	
+.idfy-iframe-idfy-title .frame.idfy-frame-animate {
+    bottom: 6vh !important;
+}
+
+}
+
+
+/*************************iPad Portrait and Landscape************************/
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation:landscape) {
+	
+.idfy-iframe-idfy-title,
+.elementor-element-ae5f8ea {
+    height: 100vh !important;
+}
+	
+.timeline ol li div {
+    line-height: 17px !important;
+}
+
+.timeline time {
+    padding-bottom: 5px !important;
+}
+	
+.timeline ol {
+    padding: 180px 0 !important;
+}
+	
+.blg-sdb, .get-fxv {
+    padding: 0.5vw 3vw 0 !important;
+}
+
+.get-fxv .elementor-heading-title {
+    left: -65px !important;
+}
+	
+.emp-data p {
+    font-size: 15px !important;
+}
+
+.emp-data h6 {
+    font-size: 14px !important;
+}
+
+.tm-id section.inside-emp {
+    height: 275px !important;
+}
+
+.page .tm-id .timeline ol li:nth-child(odd) div, 
+.page .tm-id .timeline ol li:nth-child(even) div {
+    height: 270px !important;
+}
+
+.tm-id section.emp-data {
+    height: 270px !important;
+}
+
+.page .team-bot .timeline ol {
+    padding: 160px 0 155px 0 !important;
+}
+	
+/*********************************/
+	
+.lt-menu ul#menu-main-menu li {
+    padding: 2vw !important;
+}
+
+.lt-menu ul#menu-main-menu li a {
+    font-size: 26px !important;
+}
+
+#menu-bottom-menu li a {
+    font-size: 13px !important;
+}
+
+.lt-menu ul#menu-main-menu li:last-child a, 
+.lt-menu ul#menu-main-menu li:nth-last-child(2) a {
+    font-size: 15px !important;
+}
+
+.blog-archive79 h2 a {
+    font-size: 23px !important;
+    line-height: 25px !important;
+    display: inline-block !important;
+}
+
+.ver-cus .menu li a {
+    font-size: 22px !important;
+}
+
+.ver-cus .menu li {
+    padding: 4.2vw 1.5vw !important;
+}
+
+.blog-archive79 .pr-post {
+    padding-bottom: 14.3vw !important;
+}
+	
+.my-peer h2.elementor-heading-title.elementor-size-default {
+    line-height: 65px !important;
+}
+
+.page .wact h2.elementor-heading-title.elementor-size-default,
+.page .my-peer .fty-yu h2.elementor-heading-title,
+.page .my-peer .yo-bu1 h2.elementor-heading-title {
+    line-height: 40px !important;
+}
+
+span.skiptoend,
+.on-white span.my-sepg, 
+.on-white1 span.my-sepg,
+.skip-next.blue .skiptoend-next {
+    font-size: 15px !important;
+}
+	
+.page-id-1888 .blog-archive79 .pr-post {
+    padding-bottom: 3.3vw !important;
+}
+	
+.page-id-1888 .timeline ol {
+    padding: 195px 0 !important;
+}
+	
+.life-sd > .elementor-widget-wrap {
+    padding: 3vw 3vw 0 !important;
+}
+
+.life-sd .get-fxv .elementor-heading-title {
+    left: 25px !important;
+}
+	
+}
